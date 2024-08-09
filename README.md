@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-# Hi~ I'm Seon Mi 😄
+# Hi~😄
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F403seonmi&count_bg=%23B3FCC7&title_bg=%234DFF9D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상) -->
