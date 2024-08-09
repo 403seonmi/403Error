@@ -17,8 +17,8 @@
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=403seonmi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=403seonmi&layout=compact)
 
 <!--
 **403seonmi/403seonmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
